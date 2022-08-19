@@ -1,0 +1,472 @@
+{
+  "01": {
+    "nom": "Ain",
+    "prefecture": "Bourg-en-Bresse",
+    "region": "FR-ARA"
+  },
+  "02": {
+    "nom": "Aisne",
+    "prefecture": "Laon",
+    "region": "FR-HDF"
+  },
+  "03": {
+    "nom": "Allier",
+    "prefecture": "Moulins",
+    "region": "FR-ARA"
+  },
+  "04": {
+    "nom": "Alpes de Haute-Provence",
+    "prefecture": "Digne-les-Bains",
+    "region": "FR-PAC"
+  },
+  "05": {
+    "nom": "Hautes-Alpes",
+    "prefecture": "Gap",
+    "region": "FR-PAC"
+  },
+  "06": {
+    "nom": "Alpes-Maritimes",
+    "prefecture": "Nice",
+    "region": "FR-PAC"
+  },
+  "07": {
+    "nom": "Ardêche",
+    "prefecture": "Privas",
+    "region": "FR-ARA"
+  },
+  "08": {
+    "nom": "Ardennes",
+    "prefecture": "Charleville-Mézières",
+    "region": "FR-GES"
+  },
+  "09": {
+    "nom": "Ariège",
+    "prefecture": "Foix",
+    "region": "FR-OCC"
+  },
+  "10": {
+    "nom": "Aube",
+    "prefecture": "Troyes",
+    "region": ""
+  },
+  "11": {
+    "nom": "Aude",
+    "prefecture": "Carcassonne",
+    "region": "FR-OCC"
+  },
+  "12": {
+    "nom": "Aveyron",
+    "prefecture": "Rodez",
+    "region": "FR-OCC"
+  },
+  "13": {
+    "nom": "Bouches-du-Rhône",
+    "prefecture": "Marseille",
+    "region": "FR-PAC"
+  },
+  "14": {
+    "nom": "Calvados",
+    "prefecture": "Caen",
+    "region": "FR-NOR"
+  },
+  "15": {
+    "nom": "Cantal",
+    "prefecture": "Aurillac",
+    "region": "FR-ARA"
+  },
+  "16": {
+    "nom": "Charente",
+    "prefecture": "Angoulême",
+    "region": "FR-NAQ"
+  },
+  "17": {
+    "nom": "Charente-Maritime",
+    "prefecture": "La Rochelle",
+    "region": "FR-NAQ"
+  },
+  "18": {
+    "nom": "Cher",
+    "prefecture": "Bourges",
+    "region": "FR-CVL"
+  },
+  "19": {
+    "nom": "Corrèze",
+    "prefecture": "Tulle",
+    "region": "FR-NAQ"
+  },
+  "21": {
+    "nom": "Côte-d'Or",
+    "prefecture": "Dijon",
+    "region": "FR-BFC"
+  },
+  "22": {
+    "nom": "Côtes d'Armor",
+    "prefecture": "St-Brieuc",
+    "region": "FR-BRE"
+  },
+  "23": {
+    "nom": "Creuse",
+    "prefecture": "Guéret",
+    "region": "FR-NAQ"
+  },
+  "24": {
+    "nom": "Dordogne",
+    "prefecture": "Périgueux",
+    "region": "FR-NAQ"
+  },
+  "25": {
+    "nom": "Doubs",
+    "prefecture": "Besançon",
+    "region": "FR-BFC"
+  },
+  "26": {
+    "nom": "Drôme",
+    "prefecture": "Valence",
+    "region": "FR-ARA"
+  },
+  "27": {
+    "nom": "Eure",
+    "prefecture": "Évreux",
+    "region": "FR-NOR"
+  },
+  "28": {
+    "nom": "Eure-et-Loir",
+    "prefecture": "Chartres",
+    "region": "FR-CVL"
+  },
+  "29": {
+    "nom": "Finistère",
+    "prefecture": "Quimper",
+    "region": "FR-BRE"
+  },
+  "30": {
+    "nom": "Gard",
+    "prefecture": "Nîmes",
+    "region": "FR-OCC"
+  },
+  "31": {
+    "nom": "Haute-Garonne",
+    "prefecture": "Toulouse",
+    "region": "FR-OCC"
+  },
+  "32": {
+    "nom": "Gers",
+    "prefecture": "Auch",
+    "region": "FR-OCC"
+  },
+  "33": {
+    "nom": "Gironde",
+    "prefecture": "Bordeaux",
+    "region": "FR-NAQ"
+  },
+  "34": {
+    "nom": "Hérault",
+    "prefecture": "Montpellier",
+    "region": "FR-OCC"
+  },
+  "35": {
+    "nom": "Île-et-Vilaine",
+    "prefecture": "Rennes",
+    "region": "FR-BRE"
+  },
+  "36": {
+    "nom": "Indre",
+    "prefecture": "Châteauroux",
+    "region": "FR-CVL"
+  },
+  "37": {
+    "nom": "Indre-et-Loire",
+    "prefecture": "Tours",
+    "region": "FR-CVL"
+  },
+  "38": {
+    "nom": "Isère",
+    "prefecture": "Grenoble",
+    "region": "FR-ARA"
+  },
+  "39": {
+    "nom": "Jura",
+    "prefecture": "Lons-le-Saunier",
+    "region": "FR-BFC"
+  },
+  "40": {
+    "nom": "Landes",
+    "prefecture": "Mont-de-Marsan",
+    "region": "FR-NAQ"
+  },
+  "41": {
+    "nom": "Loir-et-Cher",
+    "prefecture": "Blois",
+    "region": "FR-CVL"
+  },
+  "42": {
+    "nom": "Loire",
+    "prefecture": "Saint-Étienne",
+    "region": "FR-ARA"
+  },
+  "43": {
+    "nom": "Haute-Loire",
+    "prefecture": "Le Puy-en-Velay",
+    "region": "FR-ARA"
+  },
+  "44": {
+    "nom": "Loire-Atlantique",
+    "prefecture": "Nantes",
+    "region": "FR-PDL"
+  },
+  "45": {
+    "nom": "Loiret",
+    "prefecture": "Orléans",
+    "region": "FR-CVL"
+  },
+  "46": {
+    "nom": "Lot",
+    "prefecture": "Cahors",
+    "region": "FR-OCC"
+  },
+  "47": {
+    "nom": "Lot-et-Garonne",
+    "prefecture": "Agen",
+    "region": "FR-NAQ"
+  },
+  "48": {
+    "nom": "Lozère",
+    "prefecture": "Mende",
+    "region": "FR-OCC"
+  },
+  "49": {
+    "nom": "Maine-et-Loire",
+    "prefecture": "Angers",
+    "region": "FR-PDL"
+  },
+  "50": {
+    "nom": "Manche",
+    "prefecture": "Saint-Lô",
+    "region": "FR-NOR"
+  },
+  "51": {
+    "nom": "Marne",
+    "prefecture": "Châlons-en-Champagne",
+    "region": "FR-GES"
+  },
+  "52": {
+    "nom": "Haute-Marne",
+    "prefecture": "Chaumont",
+    "region": "FR-GES"
+  },
+  "53": {
+    "nom": "Mayenne",
+    "prefecture": "Laval",
+    "region": "FR-PDL"
+  },
+  "54": {
+    "nom": "Meurthe-et-Moselle",
+    "prefecture": "Nancy",
+    "region": "FR-GES"
+  },
+  "55": {
+    "nom": "Meuse",
+    "prefecture": "Bar-le-Duc",
+    "region": "FR-GES"
+  },
+  "56": {
+    "nom": "Morbihan",
+    "prefecture": "Vannes",
+    "region": "FR-BRE"
+  },
+  "57": {
+    "nom": "Moselle",
+    "prefecture": "Metz",
+    "region": "FR-GES"
+  },
+  "58": {
+    "nom": "Nièvre",
+    "prefecture": "Nevers",
+    "region": "FR-BFC"
+  },
+  "59": {
+    "nom": "Nord",
+    "prefecture": "Lille",
+    "region": "FR-HDF"
+  },
+  "60": {
+    "nom": "Oise",
+    "prefecture": "Beauvais",
+    "region": "FR-HDF"
+  },
+  "61": {
+    "nom": "Orne",
+    "prefecture": "Alençon",
+    "region": "FR-NOR"
+  },
+  "62": {
+    "nom": "Pas-de-Calais",
+    "prefecture": "Arras",
+    "region": "FR-HDF"
+  },
+  "63": {
+    "nom": "Puy-de-Dôme",
+    "prefecture": "Clermont-Ferrand",
+    "region": "FR-ARA"
+  },
+  "64": {
+    "nom": "Pyrénées-Atlantiques",
+    "prefecture": "Pau",
+    "region": "FR-NAQ"
+  },
+  "65": {
+    "nom": "Hautes-Pyrénées",
+    "prefecture": "Tarbes",
+    "region": "FR-OCC"
+  },
+  "66": {
+    "nom": "Pyrénées-Orientales",
+    "prefecture": "Perpignan",
+    "region": "FR-OCC"
+  },
+  "67": {
+    "nom": "Bas-Rhin",
+    "prefecture": "Strasbourg",
+    "region": "FR-GES"
+  },
+  "68": {
+    "nom": "Haut-Rhin",
+    "prefecture": "Colmar",
+    "region": "FR-GES"
+  },
+  "69": {
+    "nom": "Rhône",
+    "prefecture": "Lyon",
+    "region": "FR-ARA"
+  },
+  "70": {
+    "nom": "Haute-Saône",
+    "prefecture": "Vesoul",
+    "region": "FR-BFC"
+  },
+  "71": {
+    "nom": "Saône-et-Loire",
+    "prefecture": "Mâcon",
+    "region": "FR-BFC"
+  },
+  "72": {
+    "nom": "Sarthe",
+    "prefecture": "Le Mans",
+    "region": "FR-PDL"
+  },
+  "73": {
+    "nom": "Savoie",
+    "prefecture": "Chambéry",
+    "region": "FR-ARA"
+  },
+  "74": {
+    "nom": "Haute-Savoie",
+    "prefecture": "Annecy",
+    "region": "FR-ARA"
+  },
+  "75": {
+    "nom": "Paris",
+    "prefecture": "Paris",
+    "region": "FR-IDF"
+  },
+  "76": {
+    "nom": "Seine-Maritime",
+    "prefecture": "Rouen",
+    "region": "FR-NOR"
+  },
+  "77": {
+    "nom": "Seine-et-Marne",
+    "prefecture": "Melun",
+    "region": "FR-IDF"
+  },
+  "78": {
+    "nom": "Yvelines",
+    "prefecture": "Versailles",
+    "region": "FR-IDF"
+  },
+  "79": {
+    "nom": "Deux-Sèvres",
+    "prefecture": "Niort",
+    "region": "FR-NAQ"
+  },
+  "80": {
+    "nom": "Somme",
+    "prefecture": "Amiens",
+    "region": "FR-HDF"
+  },
+  "81": {
+    "nom": "Tarn",
+    "prefecture": "Albi",
+    "region": "FR-OCC"
+  },
+  "82": {
+    "nom": "Tarn-et-Garonne",
+    "prefecture": "Montauban",
+    "region": "FR-OCC"
+  },
+  "83": {
+    "nom": "Var",
+    "prefecture": "Toulon",
+    "region": "FR-PAC"
+  },
+  "84": {
+    "nom": "Vaucluse",
+    "prefecture": "Avignon",
+    "region": "FR-PAC"
+  },
+  "85": {
+    "nom": "Vendée",
+    "prefecture": "La Roche-sur-Yon",
+    "region": "FR-PDL"
+  },
+  "86": {
+    "nom": "Vienne",
+    "prefecture": "Poitiers",
+    "region": "FR-NAQ"
+  },
+  "87": {
+    "nom": "Haute-Vienne",
+    "prefecture": "Limoges",
+    "region": "FR-NAQ"
+  },
+  "88": {
+    "nom": "Vosges",
+    "prefecture": "Épinal",
+    "region": "FR-GES"
+  },
+  "89": {
+    "nom": "Yonne",
+    "prefecture": "Auxerre",
+    "region": "FR-BFC"
+  },
+  "90": {
+    "nom": "Territoire-de-Belfort",
+    "prefecture": "Belfort",
+    "region": "FR-BFC"
+  },
+  "91": {
+    "nom": "Essonne",
+    "prefecture": "Évry",
+    "region": "FR-IDF"
+  },
+  "92": {
+    "nom": "Hauts-de-Seine",
+    "prefecture": "Nanterre",
+    "region": "FR-IDF"
+  },
+  "93": {
+    "nom": "Seine-Saint-Denis",
+    "prefecture": "Bobigny",
+    "region": "FR-IDF"
+  },
+  "94": {
+    "nom": "Val-de-Marne",
+    "prefecture": "Créteil",
+    "region": "FR-IDF"
+  },
+  "95": {
+    "nom": "Val-d'Oise",
+    "prefecture": "Pontoise",
+    "region": "FR-IDF"
+  }
+}
